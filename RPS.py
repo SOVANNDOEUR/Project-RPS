@@ -36,4 +36,4 @@ elif player == "paper":
         print("Bot: ",Bot)
         print("You Lose")
 else:
-    print("you move is not valid")
+    print("You move is wrong")
